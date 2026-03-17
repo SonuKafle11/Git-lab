@@ -1,2 +1,2 @@
 This is version control lab.
-Welcome to github.
+Welcome to Github.
